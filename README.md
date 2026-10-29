@@ -90,13 +90,13 @@ Screenshots will be added as the application UI develops.
 ## 📱 App Screenshots
 
 ### Home Screen
-![Shoppe Home](screenshots/Home.png)
+![Shoppe Home](screenshots/Home.jpeg)
 
 ### Login Screen
-![Shoppe Start](screenshots/First_page.png)
+![Shoppe Start](screenshots/First_page.jpeg)
 
 ### Product Details
-![Create_Account](screenshots/Create_Account.png)
+![Create_Account](screenshots/Create_Account.jpeg)
 
 
 Planned work will depend on the project's development progress and may include:
