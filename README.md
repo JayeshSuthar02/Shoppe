@@ -99,7 +99,23 @@ Screenshots will be added as the application UI develops.
 ![Shoppe Home](screenshots/Home.jpeg)
 
 ### Category Screen
-![Shoppe Category] (screenshots/Category.jpeg)
+![Shoppe Category](screenshots/Category.jpeg)
+
+### Products Screen
+![Shoppe Category](screenshots/Clothing_page.jpeg)
+
+### Wishlist Screen
+![Shoppe Category](screenshots/WishList.jpeg)
+
+### Cart Screen
+![Shoppe Category](screenshots/Cart.jpeg)
+
+### Profile Screen
+![Shoppe Category](screenshots/Profile.jpeg)
+
+
+
+
 
 
 
