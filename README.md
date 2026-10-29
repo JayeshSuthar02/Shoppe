@@ -86,7 +86,18 @@ Do not commit service-account private keys, passwords, or other sensitive creden
 
 Screenshots will be added as the application UI develops.
 
-## 🗺️ Future Improvements
+
+## 📱 App Screenshots
+
+### Home Screen
+![Shoppe Home](screenshots/home.png)
+
+### Login Screen
+![Shoppe Login](screenshots/login.png)
+
+### Product Details
+![Product Details](screenshots/product_details.png)
+
 
 Planned work will depend on the project's development progress and may include:
 
