@@ -93,10 +93,10 @@ Screenshots will be added as the application UI develops.
 ![Shoppe Home](screenshots/home.png)
 
 ### Login Screen
-![Shoppe Login](screenshots/login.png)
+![Shoppe Login](screenshots/First_page.png)
 
 ### Product Details
-![Product Details](screenshots/product_details.png)
+![Product Details](screenshots/Create_Account.png)
 
 
 Planned work will depend on the project's development progress and may include:
